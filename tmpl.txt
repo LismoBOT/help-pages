@@ -1,0 +1,19 @@
+-- if you don't want to have the property at all just leave it as
+-- '.' see 0.txt as an example
+
+title       ~ cannot have any newlines
+description ~ can have newlines (as long as there is no empty line)
+
+feild1 name    ~ cannot have any newlines
+feild1 value   ~ can have newlines (as long as there is no empty line)
+feild1 inline? ~ true or false
+
+feild2 name
+feild2 value
+feild2 inline?
+
+...
+
+feild25 name
+feild25 value
+feild25 inline?
