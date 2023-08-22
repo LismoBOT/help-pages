@@ -1,0 +1,6 @@
+.
+# HELP
+**Lismo**; the product over sleepless nights, blood, sweat, and tears *with more incoming*!
+\nLismo is designed to be an entirly free minimal security bot. Lismo uses a varity of tools and techniques to make your Discord server a safer place.
+\nLismo is run by *you*, and as such to keep this bot free **forever** consider supporting us: [some support](https://somesupport.com/), [another support](https://anothersupport.com/)
+\n### enough from me... press next to get some help!
